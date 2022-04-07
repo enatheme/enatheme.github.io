@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>enatheme.github.io/categories/</loc>
+    <loc>https://enatheme.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="enatheme.github.io/fr/categories/"
+                href="https://enatheme.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="enatheme.github.io/categories/"
+                href="https://enatheme.github.io/categories/"
                 />
   </url><url>
-    <loc>enatheme.github.io/</loc>
+    <loc>https://enatheme.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="enatheme.github.io/fr/"
+                href="https://enatheme.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="enatheme.github.io/"
+                href="https://enatheme.github.io/"
                 />
   </url><url>
-    <loc>enatheme.github.io/tags/</loc>
+    <loc>https://enatheme.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="enatheme.github.io/fr/tags/"
+                href="https://enatheme.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="enatheme.github.io/tags/"
+                href="https://enatheme.github.io/tags/"
                 />
   </url>
 </urlset>
